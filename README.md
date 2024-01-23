@@ -1,4 +1,4 @@
-# Hey there 👋
+# About me
 
 👩🏻‍💼 Previously worked in civil service and teaching before turning to coding
 
